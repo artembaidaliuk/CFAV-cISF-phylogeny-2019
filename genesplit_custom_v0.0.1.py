@@ -2,12 +2,12 @@
 
 
 #                   USAGE:
-# Puth the script file in the same directory with the data table file
+# Put the script file in the same directory with the data table file
 # Don't forget to put arguments after script name:
 # first argument - data table file name (e.g. 'Supplementary data')
-# second argument - prefix in the output files (e.g. '16-feb-2020_nt_seq_list')
-# third argument (optional) is the output directory,
-# which is the folder name that should exist in the current directory (e.g. 'nt_seq_list_by_gene')
+# second argument - prefix in the output files (e.g. '16-feb-2020')
+# third argument is the output folder name,
+# which should exist in the current directory (e.g. 'nt_seq_list_by_gene')
 
 
 import pandas as pd
