@@ -1,5 +1,4 @@
 # CFAV-cISF-phylogeny-2019
-## Supplementary material 2
 
 This repository contains nucleotide sequence allignments and metadata for sequences used to reconstruct the phylogeny of cell-fusing agent virus (CFAV) and classical insect-specific flaviviruses (cISFs).
 
