@@ -1,6 +1,6 @@
 # CFAV-cISF-phylogeny-2019
 
-This repository contains nucleotide sequence allignments and metadata for sequences used to reconstruct the phylogeny of cell-fusing fusing agent virus (CFAV) and classical insect-specific flaviviruses (cISFs).
+This repository contains nucleotide sequence allignments and metadata for sequences used to reconstruct the phylogeny of cell-fusing agent virus (CFAV) and classical insect-specific flaviviruses (cISFs).
 
 The alignment files correspond to three data subsets for CFAV phylogeny and one for cISF:
 
@@ -11,7 +11,7 @@ The alignment files correspond to three data subsets for CFAV phylogeny and one 
 
 Partition files are added where gene partition model were tested.
 
-A python script is also included in order to split the sequences into separate gene (or UTR) sequence lists directly from the data table. The sequence lists could then be used to perform the alignments from scratch. In order to create sequence lists for different data subsets make sure to subset the data table before running the script.
+A python script is also included in order to split the sequences into separate gene (or UTRs) sequence lists directly from the data table. The sequence lists could then be used to perform the alignments. In order to create sequence lists for different data subsets make sure to subset the data table before running the script.
 
 Example:
 
